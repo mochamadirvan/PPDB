@@ -1,0 +1,2 @@
+header : home, contact, profil, pendaftaran, login
+bawah kegiatan, guru, prestasi
